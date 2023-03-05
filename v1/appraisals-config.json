@@ -1,0 +1,5 @@
+{
+  "androidFallback": "https://play.google.com/apps/internaltest/4698840534710017092",
+  "iosFallback": "https://testflight.apple.com/join/GlYGonXW",
+  "appId": "au.com.rev.appraisals.expo"
+}
