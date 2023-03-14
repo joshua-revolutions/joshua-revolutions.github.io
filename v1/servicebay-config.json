@@ -1,3 +1,10 @@
 {
-  "deepLink":"test"
+  "androidFallback": "https://play.google.com/apps/internaltest/4700821987600980465",
+  "iosFallback": "https://testflight.apple.com/join/GlYGonXW",
+  "appId": "au.com.rev.servicebay.expo",
+  "forceUpgrade": {
+    "uat": false,
+    "production": false
+  },
+  "allowUpgrade": true
 }
