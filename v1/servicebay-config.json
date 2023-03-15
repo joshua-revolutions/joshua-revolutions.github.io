@@ -6,5 +6,5 @@
     "uat": false,
     "production": false
   },
-  "allowUpgrade": false
+  "allowUpgrade": true
 }
