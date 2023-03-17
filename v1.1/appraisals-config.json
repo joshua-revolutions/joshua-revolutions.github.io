@@ -1,0 +1,10 @@
+{
+  "androidFallback": "https://play.google.com/apps/internaltest/4701612020674507600",
+  "iosFallback": "https://testflight.apple.com/join/6EfvLG0c",
+  "appId": "au.com.rev.appraisals.expo",
+  "forceUpgrade": {
+    "uat": false,
+    "production": false
+  },
+  "allowUpgrade": true
+}
