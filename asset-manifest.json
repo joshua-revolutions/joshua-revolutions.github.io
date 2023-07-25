@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.9e56229d.js",
-    "static/js/263.706f9722.js": "/static/js/263.706f9722.js",
+    "main.js": "/static/js/main.6bb3facb.js",
+    "static/js/497.bed931cc.js": "/static/js/497.bed931cc.js",
     "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
     "static/media/RobotoCondensed-Regular.ttf": "/static/media/RobotoCondensed-Regular.fc3d2f2e3a203d0037c1.ttf",
@@ -9,12 +9,10 @@
     "static/media/RobotoCondensed-Light.ttf": "/static/media/RobotoCondensed-Light.315e30bd24f609c6f8d1.ttf",
     "index.html": "/index.html",
     "serve.json": "/serve.json",
-    "manifest.json": "/manifest.json",
-    "main.9e56229d.js.map": "/static/js/main.9e56229d.js.map",
-    "263.706f9722.js.map": "/static/js/263.706f9722.js.map"
+    "manifest.json": "/manifest.json"
   },
   "entrypoints": [
-    "static/js/263.706f9722.js",
-    "static/js/main.9e56229d.js"
+    "static/js/497.bed931cc.js",
+    "static/js/main.6bb3facb.js"
   ]
 }
